@@ -12,7 +12,7 @@
 
 ![Scorpion](/images/Giant_forest_scorpion.png)
 
-עברית | אנגלית
+ אנגלית | עברית 
 ------------ | -------------
 Androctonus crassicauda crassicauda | קטלן עב זנב
 Androctonus bicolor | קטלן דו-גוני
