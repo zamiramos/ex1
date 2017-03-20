@@ -10,7 +10,7 @@
 	* בחולות שפלת החוף והעמקים
 	* דרום מדבר יהודה
 
-![Scorpion](/images/Giant_forest_scorpion.png)
+![Scorpion](/images/Giant_forest_scorpion.jpg)
 
  אנגלית | עברית 
 ------------ | -------------
